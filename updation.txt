@@ -1,0 +1,44 @@
+New Document
+	•	The best dropdown design and functioning is where we write category of the item in the row, so want each dropdown to function like that in full software
+	•	In default view the number of rows should be increased at least 7
+	•	view of in words does not come correctly when the line goes a bit too long
+	•	When we save any new document it should ask in a windows if you want to generate pdf or not 
+	•	in the view box in which there are rows of items added I want that view to be automatically resize itself whenever a item is added but if more than 15 rows are added then only there should be scroll in that view box 
+	•	Add address line 3 
+	•	No igst column
+	⁃	And when added note that when the bill is for Haryana :
+	⁃	Say total gst % = 18% , then for Haryana : cgst =9% and sgst = 9%, and for outside Haryana : igst = 18% (however if the user had typed in different values of gst while entering the items then those value should be used directly)
+	•	Lets say I filled up some of the boxes but then I goes to the products page or any other page and come again to the new document page so then, I don’t want those filled up boxes to be empty, following up a clear format button shall also be added.
+	•	Update the pdf generation and its button so that should work
+	•	when writing in item name box it it got too long it should wider the row and jump to the next line ,(at least it can widen up to 3 lines automatically only after that scroll function will function)
+	•	also the headers of the table are not able to see properly due to their improper widths
+	•	Also increase the widths of some of the columns like Rate, HSN code and Gst columns
+	•	
+Documents:
+	•	When we select any document so then when click on edit button we should re direct on the new document page with all the input fields filled as per the selected document and then when the user edit any field or add any field and then save the document it should update the document
+	•	There is much space between the columns of customer and amount so you can add some more informative columns , it can also be any analysis which you think will be informative , one I know is that you can enter the no of items column
+	•	Add an option to export sample import file
+	•	
+
+Settings:
+	•	add a feature of adding the default path of saving pdf or the pdf should be saved at last opened folder when we saved last time
+	•	Give option here like how much frequent automatically data backup you want (likely options) :
+	⁃	1. Do not want (until backup no button is not clicked)
+	⁃	2. ⁠once a day 
+	⁃	3. ⁠after every invoice billed
+	⁃	4. ⁠after every 5 invoice billed
+	⁃	5. ⁠after every 10 invoice billed
+	⁃	6. ⁠every month
+	•	The upper tabs should come in full size like in some tabs the text is visible only half and other text is written like …..
+
+Customers:
+	•	add Address line 3 
+	•	In the added customers table view all the columns are not present of the data the user added 
+	•	change deactivate button to remove
+	•	Add an option to export sample import file
+	•	Products:
+	•	In the added Products table view all the columns are not present of the data the user added 
+	•	change deactivate button to remove
+	•	Add an option to export sample import file
+	•	Add a blue tick option if users want to enter the values of gst different  (of sgst , igst, cgst)
+
